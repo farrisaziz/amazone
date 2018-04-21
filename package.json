@@ -1,0 +1,28 @@
+{
+  "name": "amazone",
+  "version": "1.0.0",
+  "description": "A CLI-based storefront with the MySQL database backend.",
+  "main": "amazoneCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angrbrd/amazone.git"
+  },
+  "keywords": [
+    "storefront",
+    "CLI-storefront",
+    "store"
+  ],
+  "author": "Anna D Derbakova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angrbrd/amazone/issues"
+  },
+  "homepage": "https://github.com/angrbrd/amazone#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
